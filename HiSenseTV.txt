@@ -1,5 +1,7 @@
 # HiSenseSmartTV
-#Blocklist for HiSense Smart TVs
+# Blocklist for HiSense Smart TVs
+# Except the Appstore. 
+# For Contact: av.video@gmx.de
 3751860294-4273171012.am-live-3.fxmconnect.com
 3751860294-4273171012.am-live.fxmconnect.com
 3751860294-8236486318-v2.am-live-3.fxmconnect.com
