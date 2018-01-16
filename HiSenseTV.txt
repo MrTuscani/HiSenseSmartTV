@@ -1,3 +1,10 @@
 # HiSenseSmartTV
 #Blocklist for HiSense Smart TVs
-#
+3751860294-4273171012.am-live-3.fxmconnect.com
+3751860294-4273171012.am-live.fxmconnect.com
+3751860294-8236486318-v2.am-live-3.fxmconnect.com
+3751860294-8236486318-v2.am-live.fxmconnect.com
+8236486318.fxm3751860294.com
+get.geo.opera.com
+hisensetracker.fxmconnect.com
+sdklog.tvstore.opera.com
