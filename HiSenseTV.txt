@@ -1,0 +1,2 @@
+# HiSenseSmartTV
+Blocklist for HiSense Smart TVs
