@@ -10,3 +10,4 @@
 get.geo.opera.com
 hisensetracker.fxmconnect.com
 sdklog.tvstore.opera.com
+unified-ter-na.hismarttv.com
